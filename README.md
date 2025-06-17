@@ -29,6 +29,6 @@ Source: [https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand]
 ## 👨‍🎓 Author
 
 **Vishwa Keerti**  
-B.Tech Undergraduate | Data Analytics Enthusiast  
+B.Tech Undergraduate IIT BHU | Data Analytics Enthusiast  
  
 
