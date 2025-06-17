@@ -14,9 +14,9 @@ The dataset contains over **100,000 records**, covering guest behavior, booking 
 
 ## 📁 Files Included
 
-- `all_queries.sql` – contains all SQL queries used in analysis
-- `hotel_analysis.xlsx` – excel analysis file with dashboard
-- `hotel_dashboard.pbix` – dashboard in power bi 
+- `hotel_bookings_queries.sql` – contains all SQL queries used in analysis
+- `hotel_bookings.csv.xlsx` – excel analysis file with dashboard
+- `hotel_bookings.pbix` – dashboard in power bi 
 
 ---
 
